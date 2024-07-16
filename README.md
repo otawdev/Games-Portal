@@ -1,4 +1,4 @@
-# Indie Gems Portal
+# Games Portal
 
 # Live Link  [Test Games Portal](https://indie-gems-portal.vercel.app/).
 # For Big Screens. Results be like -
@@ -41,7 +41,7 @@ Test Games Portal is a web application that allows users to search for games bas
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/sameerkali/Indie_Gems_Portal.git`
+1. Clone the repository: `git clone https://github.com/otawdev/Test-Games.git`
 2. Navigate to the project directory: `cd Test_Games_Portal`
 3. Install dependencies: `npm install`
 
